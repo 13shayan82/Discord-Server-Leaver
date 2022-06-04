@@ -20,9 +20,9 @@
 Put your Tokens in tokens.txt file.
 ```
   
-#### 1・Installation (Automated installation)
+#### 1・Installation (Automated installation) :sunglasses:
 ```
-Launch the setup.bat file. A new file will be created (start.bat) . Just launch it :sunglasses:.
+Launch the setup.bat file. A new file will be created (start.bat) . Just launch it .
 ```
 
 #### 2・Installation (Manually)
