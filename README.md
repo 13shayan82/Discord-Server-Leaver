@@ -9,7 +9,5 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
-  <a href="https://github.com/13shayan82">
 ![](https://komarev.com/ghpvc/?username=13shayan82&style=flat&color=blue)
-  </a>
-</p>
+
