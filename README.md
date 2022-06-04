@@ -22,7 +22,7 @@ Put your Tokens in tokens.txt file.
   
 #### 1・Automated installation :zap:
 ```
-Launch the setup.bat file. A new file will be created (start.bat) . Just launch it .
+Launch the setup.bat file. A new file will be created (start.bat) , Just launch it .
 ```
 
 #### 2・Manually :wrench:
