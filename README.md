@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://techcrunch.com/wp-content/uploads/2021/05/Discord_IAP_KeyVisuals_Header_02.jpeg?w=730&crop=1">
+  <img src="https://cdn.discordapp.com/attachments/857714045251878972/977153774206476318/revenge_hotlinenct_dream.gif">
 </p>
