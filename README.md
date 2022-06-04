@@ -22,7 +22,7 @@ Put your Tokens in tokens.txt file.
   
 #### 1・Installation (Automated installation)
 ```
-Launch the setup.bat file. A new file will be created (start.bat) . You will only have to launch it.
+Launch the setup.bat file. A new file will be created (start.bat) . Just launch it :sunglasses:.
 ```
 
 #### 2・Installation (Manually)
