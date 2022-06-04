@@ -12,3 +12,22 @@
   <a href="https://github.com/13shayan82">
     <img src="https://komarev.com/ghpvc/?username=13shayan82&style=flat&color=blue">
   </a>
+  
+
+## How To Install
+  
+```
+Put your Tokens in tokens.txt file.
+```
+  
+#### 1st・Installation (Automated installation)
+```
+Launch the setup.bat file. A new file will be created (start.bat) . You will only have to launch it.
+```
+
+#### 2nd・Installation (Manually)
+```
+$ git clone https://github.com/13shayan82/Discord-Server-Leaver.git
+$ python -m pip install -r requirements.txt
+$ python Server_leaver.py
+```
