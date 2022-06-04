@@ -20,12 +20,12 @@
 Put your Tokens in tokens.txt file.
 ```
   
-#### 1st・Installation (Automated installation)
+#### 1-・Installation (Automated installation)
 ```
 Launch the setup.bat file. A new file will be created (start.bat) . You will only have to launch it.
 ```
 
-#### 2nd・Installation (Manually)
+#### 2-・Installation (Manually)
 ```
 $ git clone https://github.com/13shayan82/Discord-Server-Leaver.git
 $ python -m pip install -r requirements.txt
