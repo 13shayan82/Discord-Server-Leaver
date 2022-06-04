@@ -14,18 +14,18 @@
   </a>
   
 
-## How To Install
+## How To Install :gear:
   
 ```
 Put your Tokens in tokens.txt file.
 ```
   
-#### 1・Installation (Automated installation) :sunglasses:
+#### 1・Installation (Automated installation) :zap:
 ```
 Launch the setup.bat file. A new file will be created (start.bat) . Just launch it .
 ```
 
-#### 2・Installation (Manually)
+#### 2・Installation (Manually) :wrench:
 ```
 $ git clone https://github.com/13shayan82/Discord-Server-Leaver.git
 $ python -m pip install -r requirements.txt
