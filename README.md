@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/13shayan82/Discord-Server-Leaver/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-important&color=<red>">
+    <img src="https://img.shields.io/badge/License-MIT-important&color=9cf">
   </a>
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
