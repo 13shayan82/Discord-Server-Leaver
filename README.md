@@ -10,7 +10,7 @@
 #### 1・Running :zap:
 
 - Ensure you have Python and the requests module installed. (requests should be installed by default)
-- Navigate to the directory where you have downloaded/cloned the repo
+- Navigate to the directory where you have downloaded/cloned the repo (if you're feeling like being extra safe, download the repo from https://github.com/iSaluki/discord-bulk-leave/releases/tag/stable)
 - Run main.py
 
 
