@@ -1,3 +1,5 @@
+**Notice:** This script is far from perfect, and comes without any warranty. Your mileage may vary. 
+
 ## How To Setup :gear:
   
 - Insert your account token(s) into the tokens.txt file. (One account ID per line, recommended 1)
@@ -27,3 +29,4 @@
 ## Will I fix the remaining issues with this project? ❓
 
 - Maybe. I'm busy and have other priorities to be working on, I am aware this fork could be better implemented, however whether or not I get the chance to fix things up a bit more isn't something I can guarantee. I will do my best to handle any issues or PRs submitted.
+- My purpose for adapting this was for personal use only. 
