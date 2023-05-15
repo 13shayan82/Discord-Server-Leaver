@@ -1,11 +1,11 @@
 ## How To Setup :gear:
   
 ```
-Insert your account token(s) into the tokens.txt file.
+Insert your account token(s) into the tokens.txt file. (One account ID per line, recommended 1)
 ```
 
 ```
-Insert any server IDs that you do not wish to leave into the exceptions.txt file.
+Insert any server IDs that you do not wish to leave into the exceptions.txt file. (One server ID per line)
 ```
   
 #### 1・Running :zap:
