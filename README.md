@@ -23,10 +23,20 @@
 
 ## Known issues 🛠️
 
-- You may need to run the script a few times (with a few minutes apart) if you are in many servers. 
+- You may need to run the script a few times (with a few minutes apart) if you are in many servers. The Discord API seems a bit fussy about leaving lots of servers together,even with some ratelimit circumvention. 
 - Some messages are inaccurate.
+- This script cannot remove you from servers you own, but will report a success.
 
-## Will I fix the remaining issues with this project? ❓
+## Future Improvements 🚧
+
+I may or may not get around to implementing these, but here are a few things that could be improve in future, in addition to the known issues listed above.
+
+- Rework the script to use API response codes to determine whether or not the operation succeeded, rather than the "inaccurate" system currently used that only fails if the actual sending of the request experiences a problem.
+- Improve the ratelimiting circumvention system.
+- Identify causes of some servers taking a few passes to be removed and fix it.
+
+
+## Will I provide additional support to this project? ❓
 
 - Maybe. I'm busy and have other priorities to be working on, I am aware this fork could be better implemented, however whether or not I get the chance to fix things up a bit more isn't something I can guarantee. I will do my best to handle any issues or PRs submitted.
 - My purpose for adapting this was for personal use only. 
