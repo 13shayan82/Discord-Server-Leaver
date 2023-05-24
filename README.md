@@ -45,6 +45,6 @@ Notice : This script is far from perfect, and comes without any warranty ⚠️
 
 ## Support ⭐
 
-Support this project with your STARS 
-If there are many stars and I see your interest in this project, I will do the next version of this project in a more professional way.
-I am also grateful for any kind of help and contribution to this project
+- Support this project with your STARS 
+- If there are many stars and I see your interest in this project, I will do the next version of this project in a more professional way.
+- I am also grateful for any kind of help and contribution to this project
